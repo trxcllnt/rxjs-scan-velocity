@@ -1,0 +1,20 @@
+{
+  "name": "rxjs-scan-velocity",
+  "version": "1.0.0",
+  "description": "An RxJS extension method that calculates the magnitude and angle of an Observable's velocity in real time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+    "keywords": [
+    "rx",
+    "rxjs",
+    "rx-js",
+    "velocity"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rx": "^2.5.2"
+  }
+}
